@@ -1,4 +1,4 @@
-export class LoginPages{
+export class LoginPage{
 
     user_textbox = ':nth-child(2) > .oxd-input-group > :nth-child(2) > .oxd-input'
     password_textbox = ':nth-child(3) > .oxd-input-group > :nth-child(2) > .oxd-input'
